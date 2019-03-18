@@ -6,6 +6,8 @@ import static org.junit.Assert.assertEquals;
 
 public class MyMathTest {
 
+    //extra comment
+
     @Before
     public void before(){
         System.out.println("^^ Before method ran ^^");
@@ -37,6 +39,7 @@ public class MyMathTest {
 
         System.out.println(result);
         //fail("Test not implemented yet")
+
     }
 
     @Test
